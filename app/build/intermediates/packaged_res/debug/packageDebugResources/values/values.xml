@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cassette_accent">@color/colorSecondary</color>
+    <color name="cassette_bg">@color/colorBackground</color>
+    <color name="cassette_card">@color/colorSurface</color>
+    <color name="cassette_secondary">@color/colorPrimary</color>
+    <color name="cassette_text">@color/colorOnSurface</color>
+    <color name="colorBackground">#062A12</color>
+    <color name="colorControlActivated">#00E676</color>
+    <color name="colorControlHighlight">#4428E67C</color>
+    <color name="colorError">#CF6679</color>
+    <color name="colorOnBackground">#E8FFE8</color>
+    <color name="colorOnPrimary">#FFFFFFFF</color>
+    <color name="colorOnSecondary">#003015</color>
+    <color name="colorOnSurface">#E8FFE8</color>
+    <color name="colorPrimary">#1B5E20</color>
+    <color name="colorPrimaryVariant">#104B18</color>
+    <color name="colorSecondary">#00E676</color>
+    <color name="colorSecondaryVariant">#00C853</color>
+    <color name="colorSurface">#0E3A1D</color>
+    <color name="md_theme_dark_background">#051E0E</color>
+    <color name="md_theme_dark_onBackground">#D8FFE0</color>
+    <color name="md_theme_dark_onPrimary">#003015</color>
+    <color name="md_theme_dark_onSecondary">#002411</color>
+    <color name="md_theme_dark_onSurface">#D8FFE0</color>
+    <color name="md_theme_dark_primary">#69F0AE</color>
+    <color name="md_theme_dark_secondary">#00E676</color>
+    <color name="md_theme_dark_surface">#0B2E17</color>
+    <color name="md_theme_light_background">#062A12</color>
+    <color name="md_theme_light_onBackground">#E8FFE8</color>
+    <color name="md_theme_light_onPrimary">#FFFFFFFF</color>
+    <color name="md_theme_light_onSecondary">#003015</color>
+    <color name="md_theme_light_onSurface">#E8FFE8</color>
+    <color name="md_theme_light_primary">#1B5E20</color>
+    <color name="md_theme_light_secondary">#00E676</color>
+    <color name="md_theme_light_surface">#0E3A1D</color>
+    <color name="widget_accent">#00E676</color>
+    <color name="widget_bg">#062A12</color>
+    <color name="widget_card">#0E3A1D</color>
+    <color name="widget_subtext">#A5F3C7</color>
+    <color name="widget_text">#FFFFFFFF</color>
+    <dimen name="widget_margin">0dp</dimen>
+    <string name="add_widget">Add widget</string>
+    <string name="add_widget_help">Para añadir el widget: Mantén pulsado en la pantalla de inicio → Widgets → "Reproductor".</string>
+    <string name="app_name">MiReproductor Cassette</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="banner_cd">Banner fútbol</string>
+    <string name="configure">Configure</string>
+    <string name="next">Siguiente</string>
+    <string name="pause">Pausar</string>
+    <string name="play">Reproducir</string>
+    <string name="prev">Anterior</string>
+    <string name="stop">Detener</string>
+    <string name="widget_title">Reproductor</string>
+    <style name="Theme.Cassette" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/cassette_bg</item>
+        <item name="android:navigationBarColor">@color/cassette_bg</item>
+        <item name="colorPrimary">@color/cassette_accent</item>
+        <item name="colorSecondary">@color/cassette_secondary</item>
+        <item name="android:windowBackground">@color/cassette_bg</item>
+    </style>
+    <style name="Theme.Cassette.AppWidgetContainer" parent="Theme.Cassette.AppWidgetContainerParent">
+        
+        <item name="appWidgetPadding">16dp</item>
+    </style>
+    <style name="Theme.Cassette.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault">
+        
+        <item name="appWidgetRadius">16dp</item>
+        
+        <item name="appWidgetInnerRadius">8dp</item>
+    </style>
+    <style name="Widget.MiReproductorCassettePro.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style>
+    <style name="Widget.MiReproductorCassettePro.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="WidgetButtonGreen" parent="Widget.MaterialComponents.Button">
+    <item name="backgroundTint">@color/colorSecondary</item>
+    <item name="android:textColor">@color/colorOnSecondary</item>
+</style>
+    <declare-styleable name="AppWidgetAttrs">
+        <attr format="dimension" name="appWidgetPadding"/>
+        <attr format="dimension" name="appWidgetInnerRadius"/>
+        <attr format="dimension" name="appWidgetRadius"/>
+    </declare-styleable>
+</resources>

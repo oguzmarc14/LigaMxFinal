@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\raw_aguilas.mp3.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\raw\\aguilas.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\drawable_ic_next.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\layout_music.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\layout\\music.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\drawable_ic_prev.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\drawable\\ic_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\raw_uefa.mp3.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\raw\\uefa.mp3"
+    },
+    {
+        "merged": "com.example.mireproductorcassette.app-debug-41:/raw_moscow.mp3.flat",
+        "source": "com.example.mireproductorcassette.app-main-43:/raw/moscow.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\raw_playa.mp3.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\raw\\playa.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\xml_music_info.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\xml\\music_info.xml"
+    },
+    {
+        "merged": "com.example.mireproductorcassette.app-debug-41:/raw_uefa_champion.mp3.flat",
+        "source": "com.example.mireproductorcassette.app-main-43:/raw/uefa_champion.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\drawable-nodpi_example_appwidget_preview.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\drawable-nodpi\\example_appwidget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\drawable_ic_cassette.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\drawable\\ic_cassette.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\xml_widget_info.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\layout_widget_music.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\layout\\widget_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\layout_item_song.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\layout\\item_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\drawable-v21_app_widget_inner_view_background.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\drawable-v21\\app_widget_inner_view_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\layout_music_configure.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\layout\\music_configure.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\raw_himno_mexicano.mp3.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\raw\\himno_mexicano.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\raw_moscow.mp3.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\raw\\moscow.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\drawable-nodpi_liga_banner.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\drawable-nodpi\\liga_banner.png"
+    },
+    {
+        "merged": "com.example.mireproductorcassette.app-debug-41:/raw_himno_mexicano.mp3.flat",
+        "source": "com.example.mireproductorcassette.app-main-43:/raw/himno_mexicano.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\raw_himno_guilas.mp3.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\raw\\himno_guilas.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\drawable-nodpi_player_poster.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\drawable-nodpi\\player_poster.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\raw_uefa_champion.mp3.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\raw\\uefa_champion.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\drawable-v21_app_widget_background.xml.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\drawable-v21\\app_widget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-debug-41:\\raw_mexico.mp3.flat",
+        "source": "C:\\Users\\Oguzm\\.gradle\\daemon\\9.0-milestone-1\\com.example.mireproductorcassette.app-main-43:\\raw\\mexico.mp3"
+    },
+    {
+        "merged": "com.example.mireproductorcassette.app-debug-41:/raw_himno_guilas.mp3.flat",
+        "source": "com.example.mireproductorcassette.app-main-43:/raw/himno_guilas.mp3"
+    },
+    {
+        "merged": "com.example.mireproductorcassette.app-debug-41:/raw_playa.mp3.flat",
+        "source": "com.example.mireproductorcassette.app-main-43:/raw/playa.mp3"
+    }
+]

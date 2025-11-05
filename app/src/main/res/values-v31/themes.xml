@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Having themes.xml for v31 variant because @android:dimen/system_app_widget_background_radius
+     and @android:dimen/system_app_widget_internal_padding requires API level 31
+    -->
+    <style name="Theme.Cassette.AppWidgetContainerParent" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="android:statusBarColor">@color/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">@color/colorBackground</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="appWidgetRadius">@android:dimen/system_app_widget_background_radius</item>
+        <item name="appWidgetInnerRadius">@android:dimen/system_app_widget_inner_radius</item>
+    </style>
+</resources>

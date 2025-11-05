@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cassette_accent">@color/colorSecondary</color>
+    <color name="cassette_bg">@color/colorBackground</color>
+    <color name="cassette_card">@color/colorSurface</color>
+    <color name="cassette_secondary">@color/colorPrimary</color>
+    <color name="cassette_text">@color/colorOnSurface</color>
+    <style name="Theme.Cassette.AppWidgetContainerParent" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="android:statusBarColor">@color/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">@color/colorBackground</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="appWidgetRadius">@android:dimen/system_app_widget_background_radius</item>
+        <item name="appWidgetInnerRadius">@android:dimen/system_app_widget_inner_radius</item>
+    </style>
+    <style name="Widget.MiReproductorCassettePro.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_background</item>
+        <item name="android:clipToOutline">true</item>
+    </style>
+    <style name="Widget.MiReproductorCassettePro.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_inner_view_background</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:clipToOutline">true</item>
+    </style>
+</resources>

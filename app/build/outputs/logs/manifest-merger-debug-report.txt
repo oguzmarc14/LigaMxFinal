@@ -1,0 +1,412 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\fc84b6d39f987e208224aafbc6279a22\transformed\viewbinding-8.5.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c3ce3e643944e26a6dba9e96ce44c719\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\34129b33f4a53b5da9d1795b04dfd3a9\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\34e4ccdb03606a58f70d96da84ec2ef7\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cf7eee30faf363635c0d28b1580a02e1\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f1ea9eaede9376ae5f97059ff8d71f20\transformed\media3-exoplayer-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-session:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\7044286cbf75e231f288103c35d2beb3\transformed\media3-session-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-extractor:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c7f460a9a85aed3b2a87e987018efde0\transformed\media3-extractor-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-container:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cccbb71e03799a6160af4804a932bcc7\transformed\media3-container-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-datasource:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\56dd2307c851b1cc8dc53cff89b582fa\transformed\media3-datasource-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-decoder:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\8a73ebec4718d549f6d2c5ed15232822\transformed\media3-decoder-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-database:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\b220f0ce7276dda01ee488906eedba23\transformed\media3-database-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-common:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\64c96f5bde42e52163b561df72ba0ba0\transformed\media3-common-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-ui:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\33f182ac8fad5d59fa0aaa73a2090d24\transformed\media3-ui-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1643edb68314eac4a4b0548176c3cb40\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c5eb24d6e6a4d12428955c8dde1b4ce5\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\8d53d24eb03cafbf76efaac73381dac9\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\ecb58a07931a4a57bbe7a85d78c60ac5\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\3abc78d5a2b55753aaa465cf227d4233\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\14db30b658b4223a37cd9384476d2413\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\88f7d3e655a7129499065ba35623fdca\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\b6872a47330311676a922fb5658dbcf2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\a0520faaa060b5931bc087542d6527b9\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\694b1190d5f9a616f57f77323923b5e1\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c2a7f35b2f49d0c2cffbc31d281b9c2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\ef2b7aede04785f4d313cd35f6a2817c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.7.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\63b9184fa34f0dbbe1af8ae157e50f68\transformed\media-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\2dd4dc224f384862f99752a196ffe76f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f6a7c275c06a5ce44dbe557aed74893c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\8d45b18c26efeb5f8788b6cf1957abf6\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1890c69fb36a9806a2844ff771a17859\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\bfb1ba93cef7ef309a459ffae6f550c2\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\e7053416c1580a0e1dd3b41fd4d262b7\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1dd5163f3476f14140e2d7a1c27ee163\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\7aeea20ab46aac09dcc5d3743064b122\transformed\lifecycle-livedata-core-ktx-2.8.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\0ec10b6c2a1a52b4cd7c8c12be8eb8bc\transformed\lifecycle-viewmodel-2.8.6\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\0e2ed019dde7e0fbd54f8060036d920a\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\785482b98ae4c3f1e2cceae447f892cc\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\64750cf658585aff49e4557e2efd6506\transformed\lifecycle-livedata-2.8.6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\640176084c1d10b7dc23408a84906171\transformed\lifecycle-viewmodel-ktx-2.8.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\210692e487d9bfee49d2c72ae1b19822\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\44ceb648dc0e68f50f0d4c6ab078820b\transformed\lifecycle-livedata-core-2.8.6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f00a76868cb467c572a891c26dc1cd96\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\6d761247bc2a7361322670ffdc353c6f\transformed\lifecycle-viewmodel-savedstate-2.8.6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c0a93b784c44c771ad8feaf9aa069fe6\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\2b25ae4b3d1f9f2a531ef59ef4c33a14\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\a557570a33c773f0f9bccaa4cb3c1f07\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\74462cd62d432efe82f54485640f966b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f14d03528a898c6461b43d71a31a5a3f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\77b2b05e0e26af9f3b106e0a14d711b0\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\0a799cd13aa9b0621e31d4afbf5bffa7\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\39de611ed10e4018e30497729caffca9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\9a3e4541faab7029da6fa8ff98179423\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f491ad52c98dea45b839fe3a37e52735\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\e229e468400c4a2e12643ef4697d1233\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\4644c51ff2f905ffc82ffa0698700e2b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\a20694baab81bf43be186266e16faf61\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:5:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:6:5-92
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:6:22-89
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:10:5-63:19
+INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:10:5-63:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c3ce3e643944e26a6dba9e96ce44c719\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c3ce3e643944e26a6dba9e96ce44c719\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\34129b33f4a53b5da9d1795b04dfd3a9\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\34129b33f4a53b5da9d1795b04dfd3a9\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\210692e487d9bfee49d2c72ae1b19822\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\210692e487d9bfee49d2c72ae1b19822\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f14d03528a898c6461b43d71a31a5a3f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f14d03528a898c6461b43d71a31a5a3f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\39de611ed10e4018e30497729caffca9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\39de611ed10e4018e30497729caffca9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:16:9-46
+receiver#com.example.mireproductorcassette.Music
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:17:9-27:20
+	android:exported
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:18:13-34
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:20:13-22:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:21:17-84
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:21:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:24:13-26:54
+	android:resource
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:26:17-51
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:25:17-58
+activity#com.example.mireproductorcassette.MusicConfigureActivity
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:exported
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:30:13-51
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:32:13-34:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:33:17-87
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:33:25-84
+activity#com.example.mireproductorcassette.ui.MainActivity
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:exported
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:37:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:42:27-74
+service#com.example.mireproductorcassette.player.PlaybackService
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:46:9-49:61
+	android:exported
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:48:13-37
+	android:foregroundServiceType
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:49:13-58
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:47:13-51
+receiver#com.example.mireproductorcassette.widget.MusicWidget
+ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:51:9-62:20
+	android:enabled
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:54:13-36
+	android:name
+		ADDED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml:52:13-47
+uses-sdk
+INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\fc84b6d39f987e208224aafbc6279a22\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\fc84b6d39f987e208224aafbc6279a22\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c3ce3e643944e26a6dba9e96ce44c719\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c3ce3e643944e26a6dba9e96ce44c719\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\34129b33f4a53b5da9d1795b04dfd3a9\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\34129b33f4a53b5da9d1795b04dfd3a9\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\34e4ccdb03606a58f70d96da84ec2ef7\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\34e4ccdb03606a58f70d96da84ec2ef7\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cf7eee30faf363635c0d28b1580a02e1\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cf7eee30faf363635c0d28b1580a02e1\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f1ea9eaede9376ae5f97059ff8d71f20\transformed\media3-exoplayer-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f1ea9eaede9376ae5f97059ff8d71f20\transformed\media3-exoplayer-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-session:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\7044286cbf75e231f288103c35d2beb3\transformed\media3-session-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-session:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\7044286cbf75e231f288103c35d2beb3\transformed\media3-session-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c7f460a9a85aed3b2a87e987018efde0\transformed\media3-extractor-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c7f460a9a85aed3b2a87e987018efde0\transformed\media3-extractor-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cccbb71e03799a6160af4804a932bcc7\transformed\media3-container-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cccbb71e03799a6160af4804a932bcc7\transformed\media3-container-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\56dd2307c851b1cc8dc53cff89b582fa\transformed\media3-datasource-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\56dd2307c851b1cc8dc53cff89b582fa\transformed\media3-datasource-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\8a73ebec4718d549f6d2c5ed15232822\transformed\media3-decoder-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\8a73ebec4718d549f6d2c5ed15232822\transformed\media3-decoder-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\b220f0ce7276dda01ee488906eedba23\transformed\media3-database-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\b220f0ce7276dda01ee488906eedba23\transformed\media3-database-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\64c96f5bde42e52163b561df72ba0ba0\transformed\media3-common-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\64c96f5bde42e52163b561df72ba0ba0\transformed\media3-common-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\33f182ac8fad5d59fa0aaa73a2090d24\transformed\media3-ui-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\33f182ac8fad5d59fa0aaa73a2090d24\transformed\media3-ui-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1643edb68314eac4a4b0548176c3cb40\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1643edb68314eac4a4b0548176c3cb40\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c5eb24d6e6a4d12428955c8dde1b4ce5\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c5eb24d6e6a4d12428955c8dde1b4ce5\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\8d53d24eb03cafbf76efaac73381dac9\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\8d53d24eb03cafbf76efaac73381dac9\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\ecb58a07931a4a57bbe7a85d78c60ac5\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\ecb58a07931a4a57bbe7a85d78c60ac5\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\3abc78d5a2b55753aaa465cf227d4233\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\3abc78d5a2b55753aaa465cf227d4233\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\14db30b658b4223a37cd9384476d2413\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\14db30b658b4223a37cd9384476d2413\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\88f7d3e655a7129499065ba35623fdca\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\88f7d3e655a7129499065ba35623fdca\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\b6872a47330311676a922fb5658dbcf2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\b6872a47330311676a922fb5658dbcf2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\a0520faaa060b5931bc087542d6527b9\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\a0520faaa060b5931bc087542d6527b9\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\694b1190d5f9a616f57f77323923b5e1\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\694b1190d5f9a616f57f77323923b5e1\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c2a7f35b2f49d0c2cffbc31d281b9c2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c2a7f35b2f49d0c2cffbc31d281b9c2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\ef2b7aede04785f4d313cd35f6a2817c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\ef2b7aede04785f4d313cd35f6a2817c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.7.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\63b9184fa34f0dbbe1af8ae157e50f68\transformed\media-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\63b9184fa34f0dbbe1af8ae157e50f68\transformed\media-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\2dd4dc224f384862f99752a196ffe76f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\2dd4dc224f384862f99752a196ffe76f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f6a7c275c06a5ce44dbe557aed74893c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f6a7c275c06a5ce44dbe557aed74893c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\8d45b18c26efeb5f8788b6cf1957abf6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\8d45b18c26efeb5f8788b6cf1957abf6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1890c69fb36a9806a2844ff771a17859\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1890c69fb36a9806a2844ff771a17859\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\bfb1ba93cef7ef309a459ffae6f550c2\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\bfb1ba93cef7ef309a459ffae6f550c2\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\e7053416c1580a0e1dd3b41fd4d262b7\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\e7053416c1580a0e1dd3b41fd4d262b7\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1dd5163f3476f14140e2d7a1c27ee163\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1dd5163f3476f14140e2d7a1c27ee163\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\7aeea20ab46aac09dcc5d3743064b122\transformed\lifecycle-livedata-core-ktx-2.8.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\7aeea20ab46aac09dcc5d3743064b122\transformed\lifecycle-livedata-core-ktx-2.8.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\0ec10b6c2a1a52b4cd7c8c12be8eb8bc\transformed\lifecycle-viewmodel-2.8.6\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\0ec10b6c2a1a52b4cd7c8c12be8eb8bc\transformed\lifecycle-viewmodel-2.8.6\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\0e2ed019dde7e0fbd54f8060036d920a\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\0e2ed019dde7e0fbd54f8060036d920a\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\785482b98ae4c3f1e2cceae447f892cc\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\785482b98ae4c3f1e2cceae447f892cc\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\64750cf658585aff49e4557e2efd6506\transformed\lifecycle-livedata-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\64750cf658585aff49e4557e2efd6506\transformed\lifecycle-livedata-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\640176084c1d10b7dc23408a84906171\transformed\lifecycle-viewmodel-ktx-2.8.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\640176084c1d10b7dc23408a84906171\transformed\lifecycle-viewmodel-ktx-2.8.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\210692e487d9bfee49d2c72ae1b19822\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\210692e487d9bfee49d2c72ae1b19822\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\44ceb648dc0e68f50f0d4c6ab078820b\transformed\lifecycle-livedata-core-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\44ceb648dc0e68f50f0d4c6ab078820b\transformed\lifecycle-livedata-core-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f00a76868cb467c572a891c26dc1cd96\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f00a76868cb467c572a891c26dc1cd96\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\6d761247bc2a7361322670ffdc353c6f\transformed\lifecycle-viewmodel-savedstate-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\6d761247bc2a7361322670ffdc353c6f\transformed\lifecycle-viewmodel-savedstate-2.8.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c0a93b784c44c771ad8feaf9aa069fe6\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\c0a93b784c44c771ad8feaf9aa069fe6\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\2b25ae4b3d1f9f2a531ef59ef4c33a14\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\2b25ae4b3d1f9f2a531ef59ef4c33a14\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\a557570a33c773f0f9bccaa4cb3c1f07\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\a557570a33c773f0f9bccaa4cb3c1f07\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\74462cd62d432efe82f54485640f966b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\74462cd62d432efe82f54485640f966b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f14d03528a898c6461b43d71a31a5a3f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f14d03528a898c6461b43d71a31a5a3f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\77b2b05e0e26af9f3b106e0a14d711b0\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\77b2b05e0e26af9f3b106e0a14d711b0\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\0a799cd13aa9b0621e31d4afbf5bffa7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\0a799cd13aa9b0621e31d4afbf5bffa7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\39de611ed10e4018e30497729caffca9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\39de611ed10e4018e30497729caffca9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\9a3e4541faab7029da6fa8ff98179423\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\9a3e4541faab7029da6fa8ff98179423\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f491ad52c98dea45b839fe3a37e52735\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f491ad52c98dea45b839fe3a37e52735\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\e229e468400c4a2e12643ef4697d1233\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\e229e468400c4a2e12643ef4697d1233\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\4644c51ff2f905ffc82ffa0698700e2b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\4644c51ff2f905ffc82ffa0698700e2b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\a20694baab81bf43be186266e16faf61\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\a20694baab81bf43be186266e16faf61\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Oguzm\Downloads\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\MiReproductorCassettePro\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.media3:media3-exoplayer:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f1ea9eaede9376ae5f97059ff8d71f20\transformed\media3-exoplayer-1.3.1\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\64c96f5bde42e52163b561df72ba0ba0\transformed\media3-common-1.3.1\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\64c96f5bde42e52163b561df72ba0ba0\transformed\media3-common-1.3.1\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [androidx.media3:media3-exoplayer:1.3.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\f1ea9eaede9376ae5f97059ff8d71f20\transformed\media3-exoplayer-1.3.1\AndroidManifest.xml:22:22-76
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\210692e487d9bfee49d2c72ae1b19822\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\210692e487d9bfee49d2c72ae1b19822\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\39de611ed10e4018e30497729caffca9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\39de611ed10e4018e30497729caffca9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\cca5e6cbb521f91dfcc13b4581de7f8c\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.mireproductorcassette.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.mireproductorcassette.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\1b79e9fa7f14b46b78589f9449a17444\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\210692e487d9bfee49d2c72ae1b19822\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\210692e487d9bfee49d2c72ae1b19822\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\210692e487d9bfee49d2c72ae1b19822\transformed\lifecycle-process-2.8.6\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Oguzm\.gradle\caches\9.0-milestone-1\transforms\567c34cd5157026ccfdd30d9a628cb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

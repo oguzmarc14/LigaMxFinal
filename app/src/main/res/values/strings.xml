@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiReproductor Cassette</string>
+    <string name="play">Reproducir</string>
+    <string name="pause">Pausar</string>
+    <string name="next">Siguiente</string>
+    <string name="prev">Anterior</string>
+    <string name="stop">Detener</string>
+    <string name="widget_title">Reproductor</string>
+    <string name="add_widget_help">Para añadir el widget: Mantén pulsado en la pantalla de inicio → Widgets → &quot;Reproductor&quot;.</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="banner_cd">Banner fútbol</string>
+</resources>

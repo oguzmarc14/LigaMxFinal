@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+    <color name="cassette_bg">@color/colorBackground</color>
+    <color name="cassette_accent">@color/colorSecondary</color>
+    <color name="cassette_secondary">@color/colorPrimary</color>
+    <color name="cassette_card">@color/colorSurface</color>
+    <color name="cassette_text">@color/colorOnSurface</color>
+</resources>

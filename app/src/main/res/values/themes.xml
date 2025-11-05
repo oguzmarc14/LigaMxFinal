@@ -1,0 +1,25 @@
+<resources>
+
+    <style name="Theme.Cassette" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/cassette_bg</item>
+        <item name="android:navigationBarColor">@color/cassette_bg</item>
+        <item name="colorPrimary">@color/cassette_accent</item>
+        <item name="colorSecondary">@color/cassette_secondary</item>
+        <item name="android:windowBackground">@color/cassette_bg</item>
+    </style>
+
+    <style name="Theme.Cassette.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault">
+        <!-- Radius of the outer bound of widgets to make the rounded corners -->
+        <item name="appWidgetRadius">16dp</item>
+        <!--
+        Radius of the inner view's bound of widgets to make the rounded corners.
+        It needs to be 8dp or less than the value of appWidgetRadius
+        -->
+        <item name="appWidgetInnerRadius">8dp</item>
+    </style>
+
+    <style name="Theme.Cassette.AppWidgetContainer" parent="Theme.Cassette.AppWidgetContainerParent">
+        <!-- Apply padding to avoid the content of the widget colliding with the rounded corners -->
+        <item name="appWidgetPadding">16dp</item>
+    </style>
+</resources>

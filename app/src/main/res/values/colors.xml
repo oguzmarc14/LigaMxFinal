@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Baseline (M2) -->
+    <color name="colorPrimary">#1B5E20</color>
+    <color name="colorPrimaryVariant">#104B18</color>
+    <color name="colorOnPrimary">#FFFFFFFF</color>
+    <color name="colorSecondary">#00E676</color>
+    <color name="colorSecondaryVariant">#00C853</color>
+    <color name="colorOnSecondary">#003015</color>
+    <color name="colorSurface">#0E3A1D</color>
+    <color name="colorOnSurface">#E8FFE8</color>
+    <color name="colorBackground">#062A12</color>
+    <color name="colorOnBackground">#E8FFE8</color>
+    <color name="colorError">#CF6679</color>
+
+    <!-- App/widget shared -->
+    <color name="widget_bg">#062A12</color>
+    <color name="widget_card">#0E3A1D</color>
+    <color name="widget_accent">#00E676</color>
+    <color name="widget_text">#FFFFFFFF</color>
+    <color name="widget_subtext">#A5F3C7</color>
+
+    <!-- Material 3 (md_theme_*) for newer themes -->
+    <color name="md_theme_light_primary">#1B5E20</color>
+    <color name="md_theme_light_onPrimary">#FFFFFFFF</color>
+    <color name="md_theme_light_secondary">#00E676</color>
+    <color name="md_theme_light_onSecondary">#003015</color>
+    <color name="md_theme_light_background">#062A12</color>
+    <color name="md_theme_light_onBackground">#E8FFE8</color>
+    <color name="md_theme_light_surface">#0E3A1D</color>
+    <color name="md_theme_light_onSurface">#E8FFE8</color>
+
+    <color name="md_theme_dark_primary">#69F0AE</color>
+    <color name="md_theme_dark_onPrimary">#003015</color>
+    <color name="md_theme_dark_secondary">#00E676</color>
+    <color name="md_theme_dark_onSecondary">#002411</color>
+    <color name="md_theme_dark_background">#051E0E</color>
+    <color name="md_theme_dark_onBackground">#D8FFE0</color>
+    <color name="md_theme_dark_surface">#0B2E17</color>
+    <color name="md_theme_dark_onSurface">#D8FFE0</color>
+
+    <!-- Control tints -->
+    <color name="colorControlHighlight">#4428E67C</color>
+    <color name="colorControlActivated">#00E676</color>
+    <color name="cassette_bg">@color/colorBackground</color>
+    <color name="cassette_accent">@color/colorSecondary</color>
+    <color name="cassette_secondary">@color/colorPrimary</color>
+    <color name="cassette_card">@color/colorSurface</color>
+    <color name="cassette_text">@color/colorOnSurface</color>
+</resources>

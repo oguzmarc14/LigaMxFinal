@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.mireproductorcassette.app-mergeDebugResources-40:/layout/music_configure.xml",
+        "source": "com.example.mireproductorcassette.app-main-43:/layout/music_configure.xml"
+    },
+    {
+        "merged": "com.example.mireproductorcassette.app-mergeDebugResources-40:/layout/music.xml",
+        "source": "com.example.mireproductorcassette.app-main-43:/layout/music.xml"
+    },
+    {
+        "merged": "com.example.mireproductorcassette.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.example.mireproductorcassette.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mireproductorcassette.app-mergeDebugResources-40:/layout/widget_music.xml",
+        "source": "com.example.mireproductorcassette.app-main-43:/layout/widget_music.xml"
+    },
+    {
+        "merged": "com.example.mireproductorcassette.app-mergeDebugResources-40:/layout/item_song.xml",
+        "source": "com.example.mireproductorcassette.app-main-43:/layout/item_song.xml"
+    }
+]

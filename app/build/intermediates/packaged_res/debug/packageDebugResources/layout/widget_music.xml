@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/widget_bg"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/banner"
+        android:src="@drawable/liga_banner"
+        android:contentDescription="@string/banner_cd"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@color/widget_card"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/wTitle"
+            android:text="Liga MX"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/widget_text"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/wTime"
+            android:text="UEFA Champions League"
+            android:textSize="13sp"
+            android:textColor="@color/widget_subtext"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp">
+
+            <ImageView
+                android:id="@+id/btnPrev"
+                android:src="@drawable/ic_prev"
+                android:tint="@color/widget_accent"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:padding="4dp"/>
+
+            <ImageView
+                android:id="@+id/btnPlayPause"
+                android:src="@drawable/ic_play"
+                android:tint="@color/widget_accent"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:padding="4dp"
+                android:layout_marginStart="18dp"
+                android:layout_marginEnd="18dp"/>
+
+            <ImageView
+                android:id="@+id/btnNext"
+                android:src="@drawable/ic_next"
+                android:tint="@color/widget_accent"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:padding="4dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mireproductorcassette.app-mergeDebugResources-39:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Oguzm\\Downloads\\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\\MiReproductorCassettePro\\app\\src\\main\\res\\values-night-v31\\colors.xml",
+                    "from": {
+                        "startLines": "2,1,4,3,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "115,54,244,179,304",
+                        "endColumns": "63,60,59,64,61",
+                        "endOffsets": "174,110,299,239,361"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,119,180,240,305",
+                        "endColumns": "63,60,59,64,61",
+                        "endOffsets": "114,175,235,300,362"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Oguzm\\Downloads\\Proyecto_Futbol_VERDE_APP_ADD_PLAYER_IMAGE\\MiReproductorCassettePro\\app\\src\\main\\res\\values-night-v31\\themes.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "166",
+                        "endLines": "17",
+                        "endColumns": "12",
+                        "endOffsets": "1124"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "367",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "1325"
+                    }
+                }
+            ]
+        }
+    ]
+}
